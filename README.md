@@ -1,7 +1,7 @@
 # Sextant
 [![Build Status](https://secure.travis-ci.org/mpenet/sextant.png?branch=master)](http://travis-ci.org/mpenet/sextant)
 
-Bunch of functions to make calculations on coordinates as described on this article:
+Bunch of functions to make calculations on coordinates as described in this article:
 [http://janmatuschek.de/LatitudeLongitudeBoundingCoordinates](http://janmatuschek.de/LatitudeLongitudeBoundingCoordinates)
 
 ## Installation
